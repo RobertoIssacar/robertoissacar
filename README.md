@@ -1,6 +1,6 @@
 ## Olá! eu sou o Roberto Issacar
 
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas com o objetivo de me tormar um Desenvolvedor Android nativo. 
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas com o objetivo de me tormar um Analista de Dados.
 - 🔭 Atualmente trabalho na Marinha do Brasil onde atuo no setor de Comunicação Social.
 - ✨ Espanhol avançado
 - ✨ Inglês básico
