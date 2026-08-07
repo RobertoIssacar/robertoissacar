@@ -1,6 +1,6 @@
 DevOps. IaC, automação e operação de ambientes.
 
-**Trabalho com:** AWS, Terraform, Linux, Docker, CI/CD, Python, redes e observabilidade.
+**Trabalho com:** AWS, Terraform, Linux, Docker, CI/CD, typescript, redes e observabilidade.
 
 Florianópolis, Brasil.
 
